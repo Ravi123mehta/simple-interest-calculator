@@ -1,6 +1,8 @@
 # Contributing to Simple Interest Calculator
 We welcome contributions from the community!
 
+"All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome."
+
 ## Steps to Contribute
 1. **Fork** the repository to your own account.
 2. **Clone** the fork to your local machine.
